@@ -1,0 +1,10 @@
+.nav_bar {
+	padding-top: 20px;
+	float: right;
+}
+
+.nav_bar li {
+	display: inline;
+	margin-right: 10px;
+	font-size: .8em;
+}
